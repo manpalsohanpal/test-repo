@@ -1,0 +1,17 @@
+# Core performance monitoring dependencies
+psutil>=5.9.0          # System and process monitoring
+memory-profiler>=0.61.0 # Memory usage profiling
+
+# Optional web framework dependencies (for future scaling)
+fastapi>=0.100.0       # Modern async web framework
+uvicorn>=0.22.0        # ASGI server
+aiofiles>=23.0.0       # Async file operations
+
+# Development and testing dependencies
+pytest>=7.4.0          # Testing framework
+pytest-benchmark>=4.0.0 # Performance benchmarking
+pytest-asyncio>=0.21.0 # Async testing support
+
+# Monitoring and observability (optional)
+prometheus-client>=0.17.0 # Metrics collection
+structlog>=23.0.0      # Structured logging

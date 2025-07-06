@@ -1,0 +1,37 @@
+2025-07-06 19:52:23,774 - INFO - Starting printing message 1 times
+2025-07-06 19:52:23,775 - INFO - Completed printing message 1 times:
+2025-07-06 19:52:23,775 - INFO -   Execution time: 0.000194 seconds
+2025-07-06 19:52:23,775 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,065 - INFO - Running performance benchmarks...
+2025-07-06 19:52:35,066 - INFO - Starting benchmark: Single message
+2025-07-06 19:52:35,066 - INFO - Starting printing message 1 times
+2025-07-06 19:52:35,066 - INFO - Completed printing message 1 times:
+2025-07-06 19:52:35,066 - INFO -   Execution time: 0.000172 seconds
+2025-07-06 19:52:35,066 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,066 - INFO - Completed benchmark: Single message:
+2025-07-06 19:52:35,066 - INFO -   Execution time: 0.000667 seconds
+2025-07-06 19:52:35,066 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,067 - INFO - Starting benchmark: 10 messages
+2025-07-06 19:52:35,067 - INFO - Starting printing message 10 times
+2025-07-06 19:52:35,067 - INFO - Completed printing message 10 times:
+2025-07-06 19:52:35,067 - INFO -   Execution time: 0.000217 seconds
+2025-07-06 19:52:35,067 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,067 - INFO - Completed benchmark: 10 messages:
+2025-07-06 19:52:35,067 - INFO -   Execution time: 0.000666 seconds
+2025-07-06 19:52:35,067 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,068 - INFO - Starting benchmark: 100 messages
+2025-07-06 19:52:35,068 - INFO - Starting printing message 100 times
+2025-07-06 19:52:35,068 - INFO - Completed printing message 100 times:
+2025-07-06 19:52:35,068 - INFO -   Execution time: 0.000671 seconds
+2025-07-06 19:52:35,068 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,069 - INFO - Completed benchmark: 100 messages:
+2025-07-06 19:52:35,069 - INFO -   Execution time: 0.001098 seconds
+2025-07-06 19:52:35,069 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,069 - INFO - Starting benchmark: Custom message
+2025-07-06 19:52:35,069 - INFO - Starting printing message 50 times
+2025-07-06 19:52:35,069 - INFO - Completed printing message 50 times:
+2025-07-06 19:52:35,070 - INFO -   Execution time: 0.000450 seconds
+2025-07-06 19:52:35,070 - INFO -   Memory delta: 0.00 MB
+2025-07-06 19:52:35,070 - INFO - Completed benchmark: Custom message:
+2025-07-06 19:52:35,070 - INFO -   Execution time: 0.000830 seconds
+2025-07-06 19:52:35,070 - INFO -   Memory delta: 0.00 MB
